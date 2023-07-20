@@ -1,4 +1,5 @@
 #Mi primer repositorio
 
-Repostorio donde se muestran las practicas 
-realizadas en bootcamp generation
+Repostorio donde se muestran las prácticas realizadas en el bootcamp generation
+
+Segunda actualización
